@@ -1,1 +1,1 @@
-# promt-chaining-customer-support-system
+# customer-support-system-prompt-chaining
